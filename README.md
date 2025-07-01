@@ -1,4 +1,4 @@
-#Toggl Invoice Generator
+# Toggl Invoice Generator
 
 This is a python script to pull a client's billable hours via the Toggl API and write them to a csv file.
 
